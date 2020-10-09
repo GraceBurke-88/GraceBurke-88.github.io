@@ -5,17 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="971e48ac-1545-43c5-ba67-70d799bb3ac5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTTPandHTTPSProtocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPandHTTPSProtocols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPAdressesPacketsAndRouting.html" beforeDir="false" afterPath="$PROJECT_DIR$/IPAddressesPacketsAndRouting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3CandHTMLandCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3CandHTMLandCSS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domainNamesAndICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/domainNamesAndICANN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="971e48ac-1545-43c5-ba67-70d799bb3ac5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602199249385</updated>
-      <workItem from="1602199250728" duration="4575000" />
+      <workItem from="1602199250728" duration="4897000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial webpage setup">
       <created>1602256928734</created>
@@ -69,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602263640881</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature: Added text to index page, fixed formatting">
+      <created>1602280213487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602280213487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,13 +113,14 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Task: Initial webpage setup" />
     <MESSAGE value="Task: Set up all pages, added navigation bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Set up all pages, added navigation bar" />
+    <MESSAGE value="Feature: Added text to index page, fixed formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added text to index page, fixed formatting" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="162" key="CommitChangelistDialog2" timestamp="1602263640789">
+    <state x="707" y="162" key="CommitChangelistDialog2" timestamp="1602280213389">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="707" y="162" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1602263640789" />
+    <state x="707" y="162" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1602280213389" />
     <state x="887" y="315" key="RollbackChangesDialog" timestamp="1602256818314">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
