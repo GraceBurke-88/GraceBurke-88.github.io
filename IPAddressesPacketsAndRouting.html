@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>IP Addresses, Packets, and Routing</title>
 </head>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -41,13 +41,44 @@
         </ul>
     </div>
 </nav>
-<body>
-<h1>Hello, world!</h1>
+<body style="background-color: mintcream ">
+<div class="container">
+<h1>IP Addresses, Packets, and Routing</h1>
+    <h4>IP Addresses</h4>
+    <p>Internet Protocol Address
+        <br>Numerical label that is given to each device
+        <br>Example: 123.123.123.123
+        <br>Allows one computer to communicate with another computer.
+        <br>Could be compared to a house address, since are used as identification and  finding locations.
+    </p>
+    <h4>Packets</h4>
+    <p>A small amount of data that is sent over a network, such as the internet.
+        <br>In the mail analogy the ‘packet’ can be thought of as a letter containing data, it has a source (home address) and a destination.
+        <br>Packets are broken up pieces of a larger amount of data, this means that if one piece is dropped, that is the only thing that has to be sent again.
+    </p>
+
+    <h4>Routing</h4>
+    <p>Routing is how packets are moved from their initial source to another destination
+        <br>There are many paths packets can take to reach their final destination
+        <br>Packets are sent and reassembled when the reach their final destination
+        <br>Routers are like ‘traffic managers’, they keep the packets moving smoothly
+        <br>Packets may arrive at different times or out of order
+
+        <br>Routers will select the ‘cheapest’ path, this means the path that is the fastest and makes the most sense politically
+        <br>Having several options makes networks ‘fault tolerant,’ which means data can still be sent, it if there is a major issue with one of the routes
+    </p>
+    <h4>TCP</h4>
+    <p>
+        Transmission Control Protocol
+        <br>Ensures that all the packets are delivered.
+       <br>If something is missing, TCP will request it to be resent
+    </p>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</div>
 </body>
 </html>
