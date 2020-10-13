@@ -6,9 +6,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="971e48ac-1545-43c5-ba67-70d799bb3ac5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/programming-1873854_1280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/webdesign-3411373_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IPAddresses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/about page.htiw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/csspage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dns.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/domainnames.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gearsofteach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/http.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/indexpic.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPandHTTPSProtocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPandHTTPSProtocols.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPAddressesPacketsAndRouting.html" beforeDir="false" afterPath="$PROJECT_DIR$/IPAddressesPacketsAndRouting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3CandHTMLandCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3CandHTMLandCSS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domainNamesAndICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/domainNamesAndICANN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/programming-1873854_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/webdesign-3411373_1280.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602199249385</updated>
       <workItem from="1602199250728" duration="9469000" />
-      <workItem from="1602620146221" duration="902000" />
+      <workItem from="1602620146221" duration="2977000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial webpage setup">
       <created>1602256928734</created>
@@ -96,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602347213094</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task: Added images to about, implemented formatting for images">
+      <created>1602621536610</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602621536610</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,13 +168,14 @@
     <MESSAGE value="Feature: Added text to index page, fixed formatting" />
     <MESSAGE value="Feature: Added text to about page, fixed formatting" />
     <MESSAGE value="Task: Added text and body formatting to each page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added text and body formatting to each page" />
+    <MESSAGE value="Task: Added images to about, implemented formatting for images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added images to about, implemented formatting for images" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="162" key="CommitChangelistDialog2" timestamp="1602347212983">
+    <state x="707" y="162" key="CommitChangelistDialog2" timestamp="1602621536480">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="707" y="162" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1602347212983" />
+    <state x="707" y="162" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1602621536480" />
     <state x="887" y="315" key="RollbackChangesDialog" timestamp="1602256818314">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -162,10 +184,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="673" y="230" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1602347116421" />
-    <state x="759" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602347220318">
+    <state x="759" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602621544069">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="759" y="345" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1602347220318" />
+    <state x="759" y="345" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1602621544069" />
     <state x="710" y="129" width="889" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602257310003">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
