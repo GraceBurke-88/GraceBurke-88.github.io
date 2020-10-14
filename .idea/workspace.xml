@@ -24,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1icG1BonRcgCmea7uydl5QnUoNC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,7 +59,7 @@
       <updated>1602199249385</updated>
       <workItem from="1602199250728" duration="9469000" />
       <workItem from="1602620146221" duration="3173000" />
-      <workItem from="1602623944516" duration="1895000" />
+      <workItem from="1602623944516" duration="2909000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial webpage setup">
       <created>1602256928734</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602623555674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Bug: changed title of about page">
+      <created>1602636774209</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602636774209</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,13 +170,14 @@
     <MESSAGE value="Task: Added text and body formatting to each page" />
     <MESSAGE value="Task: Added images to about, implemented formatting for images" />
     <MESSAGE value="Task: Added images to all pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added images to all pages" />
+    <MESSAGE value="Bug: changed title of about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug: changed title of about page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="162" key="CommitChangelistDialog2" timestamp="1602623555503">
+    <state x="707" y="162" key="CommitChangelistDialog2" timestamp="1602636774062">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="707" y="162" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1602623555503" />
+    <state x="707" y="162" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1602636774062" />
     <state x="887" y="315" key="RollbackChangesDialog" timestamp="1602256818314">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -177,10 +186,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="673" y="230" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1602347116421" />
-    <state x="759" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602623562703">
+    <state x="759" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602636868229">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="759" y="345" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1602623562703" />
+    <state x="759" y="345" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1602636868229" />
     <state x="710" y="129" width="889" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602257310003">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
